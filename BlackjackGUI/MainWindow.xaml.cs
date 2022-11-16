@@ -15,8 +15,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
-//Assignment 1
-//Student: Aimi Qian
+//Author: Aimi Qian
 
 namespace BlackjackGUI
 {
