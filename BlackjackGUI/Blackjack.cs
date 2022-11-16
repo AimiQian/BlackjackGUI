@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Assignment 1
-//Student: Aimi Qian
+
+//Author: Aimi Qian
 
 namespace BlackJackProject
 {
